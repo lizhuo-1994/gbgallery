@@ -30,11 +30,10 @@ Installation for anaconda on Linux:
 
 Installation for anaconda on MS-Windows:
 
-See specific tutorial from official website: Documentation 	
+See specific tutorial from official website: [Documentation](https://sites.google.com/view/gbgallery/main/documents-of-gbgallery/environment-setup?authuser=0) 	
 
 Download the packaged environment:
-
-		download [benchmark_env.tar.gz] (https://drive.google.com/file/d/1Kv3Y5krhCEP4Ikhl7_tt2MFCJ61B3Ndt/view?usp=sharing)
+		[benchmark_env.tar.gz](https://drive.google.com/file/d/1Kv3Y5krhCEP4Ikhl7_tt2MFCJ61B3Ndt/view?usp=sharing)
 
 Activate the environment:
 
@@ -45,6 +44,5 @@ Activate the environment:
 		(3) source benchmark_env/bin/activate
 
 Finally, the set up of environment is done, please download GBGallery and refer to the following document for usage:
-
-	 	download [gbgallery.zip] (https://drive.google.com/file/d/13gyC_xxQcZmNi_jxebTBEfhCwIIJgtXl/view?usp=sharing)
+		[gbgallery.zip](https://drive.google.com/file/d/13gyC_xxQcZmNi_jxebTBEfhCwIIJgtXl/view?usp=sharing)
 		
