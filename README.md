@@ -40,9 +40,9 @@ Activate the environment:
 
 		(1) mkdir -p benchmark_env
 
-(2) tar -xzf benchmark_env.tar.gz -C benchmark_env/
+		(2) tar -xzf benchmark_env.tar.gz -C benchmark_env/
 
-(3) source benchmark_env/bin/activate
+		(3) source benchmark_env/bin/activate
 
 Finally, the set up of environment is done, please download GBGallery and refer to the following document for usage:
 
