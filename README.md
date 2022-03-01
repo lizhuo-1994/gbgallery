@@ -18,15 +18,15 @@ GBGallery is constructed by 5 games and the game bugs, therefore GBGallery conta
 
 Environment installation
 
-	Installation for anaconda on Linux:
+Installation for anaconda on Linux:
 
 		wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh 
 
-bash ./Anaconda3-2020.11-Linux-x86_64.sh 
+		bash ./Anaconda3-2020.11-Linux-x86_64.sh 
 
-echo 'export PATH="$pathToAnaconda/anaconda3/bin:$PATH"' >> ~/.bashrc 
+		echo 'export PATH="$pathToAnaconda/anaconda3/bin:$PATH"' >> ~/.bashrc 
 
-conda config --set auto_activate_base false 
+		conda config --set auto_activate_base false 
 
 Installation for anaconda on MS-Windows:
 
@@ -34,7 +34,7 @@ See specific tutorial from official website: Documentation
 
 Download the packaged environment:
 
-benchmark_env.tar.gz
+		benchmark_env.tar.gz
 
 Activate the environment:
 
