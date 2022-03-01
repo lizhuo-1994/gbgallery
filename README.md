@@ -34,7 +34,7 @@ See specific tutorial from official website: Documentation
 
 Download the packaged environment:
 
-		benchmark_env.tar.gz
+		download [benchmark_env.tar.gz](https://drive.google.com/file/d/1Kv3Y5krhCEP4Ikhl7_tt2MFCJ61B3Ndt/view?usp=sharing)
 
 Activate the environment:
 
@@ -46,4 +46,4 @@ Activate the environment:
 
 Finally, the set up of environment is done, please download GBGallery and refer to the following document for usage:
 
-	  gbgallery.zip
+	 	download [gbgallery.zip](https://drive.google.com/file/d/13gyC_xxQcZmNi_jxebTBEfhCwIIJgtXl/view?usp=sharing)
