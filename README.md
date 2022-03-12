@@ -11,6 +11,8 @@ GBGallery is an opened game bug database and game testing framework, which conta
 
 In GBGallery, we have integrated 5 automated game testing strategies include : Random, DQN, A2C, A2C+curiosity, and Wuji (the distinguished paper in ASE 2019).  DQN and  A2C are basic deep reinforcement learning algorithm (DRL), A2C+curiosity contains an extra curiosity-driven agent exploration guidance than A2C, Wuji is a combination of search-based optimization with DRL. Currently few research was proposed for automated game testing by AI, thus we propose GBGallery to encourage the above research.
 
+![image](https://github.com/lizhuo-1994/gbgallery/blob/main/main.pdf)
+
 **What is structure of  the GBGallery?**
 
 GBGallery is constructed by 5 games and the game bugs, therefore GBGallery contains 5 independent program package.
