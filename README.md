@@ -2,6 +2,7 @@
 
 
 Abstract
+
 Software bug database and benchmark are the wheels of automated software testing advancement. Real bugs often occur rather sparsely in relative to the amount of software code, the extraction and curation of which are quite labor-intensive but can be the essentials to innovate testing techniques.
 
 What is GBGallery?
