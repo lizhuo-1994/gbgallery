@@ -29,9 +29,8 @@ Installation for anaconda on Linux:
 
 		conda config --set auto_activate_base false 
 
-Installation for anaconda on MS-Windows:
 
-See specific tutorial from official website: [Documentation](https://sites.google.com/view/gbgallery/main/documents-of-gbgallery/environment-setup?authuser=0) 	
+See specific tutorial from the Wiki: [Documentation](https://github.com/lizhuo-1994/gbgallery/wiki) 	
 
 Download the packaged environment:
 		[benchmark_env.tar.gz](https://drive.google.com/file/d/1Kv3Y5krhCEP4Ikhl7_tt2MFCJ61B3Ndt/view?usp=sharing)
